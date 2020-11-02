@@ -1,0 +1,31 @@
+.header__nav{
+    background: transparent !important;  /* fallback for old browsers */
+    color: lightgray;
+    }
+
+.page__body{
+    font: inherit;
+    display: block;
+    background: #111222;
+    color: #afb0c0;
+    position: relative;
+
+
+    margin: 0px;
+}
+.drawer__main{
+    font: inherit;
+    display: block;
+    background: #111222 !important;
+    color: #afb0c0 !important;
+    position: relative;
+
+
+    margin: 0px;
+}
+
+.main__logo > img{
+    align-items: center;
+    height: 50px;
+
+}

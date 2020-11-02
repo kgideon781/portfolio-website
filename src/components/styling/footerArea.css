@@ -1,0 +1,6 @@
+.social__links{
+    font-size: 10px;
+}
+.social__links :hover{
+    color: gray;
+}
